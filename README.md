@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <img src="https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
-<img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=for-the-badge&logo=Vue.js&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> 
 </div>
 </div>
 
