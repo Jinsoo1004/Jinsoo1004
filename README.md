@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=%20Front-End%20Developer&fontAlignY=45&fontSize=40&height=150&desc=Jinsoo&descAlignY=70">  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 </div>
 
 # <div align="center">🖥️ My Tech Stacks
@@ -21,4 +21,4 @@
 # <div align="center">👏My Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jinsoo1004&show_icons=true&theme=radical"/></a></div>
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jinsoo1004)](https://github.com/ryo-ma/github-profile-trophy)
+
