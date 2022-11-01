@@ -20,7 +20,7 @@
 
 # <div align="center">👏My Stats
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jinsoo1004&theme=tokyonight&show_icons=true" />
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jinsoo1004&theme=tokyonight&show_icons=true" /></div>
 </a>
 
 </div>
