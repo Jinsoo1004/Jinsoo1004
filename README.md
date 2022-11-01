@@ -19,6 +19,12 @@
 </div>
 
 # <div align="center">👏My Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jinsoo1004&show_icons=true&theme=radical"/></a></div>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinsoo1004&exclude_repo=Jinsoo1004.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jinsoo1004&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
 </div>
 
