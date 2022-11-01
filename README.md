@@ -20,5 +20,5 @@
 
 # <div align="center">👏My Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jinsoo1004&show_icons=true&theme=radical"/></a></div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jinsoo1004)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jinsoo1004)](https://github.com/ryo-ma/github-profile-trophy)
