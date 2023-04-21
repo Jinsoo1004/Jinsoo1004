@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=사용자경험을+중요시하는,;협업과+소통을+통해+날마다+성장하는,;프론트앤드+개발자입니다!+💻✨&center=true&size=20">
+  </a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Front-End%20Developer&fontSize=60" />
 </div>
 
